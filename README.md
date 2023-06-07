@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Maxwell Schroder</h1>
-<h3 align="center">A passionate full stack developer fighting out of Brisbane, Australia</h3>
+<h3 align="center">A passionate software developer fighting out of Brisbane, Australia</h3>
+
+- 🎓 I am expected to graduate with a **Bachelor's of Computer Science** from the **University of Queensland** in November 2023
 
 - 🔭 I’m currently working on [**graphics programming**](https://github.com/MaxwellSchroder/Yaka-Arrow-Project-OpenGL)
 
@@ -11,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [**https://github.com/MaxwellSchroder**](https://github.com/MaxwellSchroder)
 
-- 💬 Ask me about **Python**, **Recursion**
+- 💬 Ask me about **Python** and **Recursive Algorithms**
 
 - 📫 How to reach me **maxischroder3@gmail.com**
 
 - ⚡ Fun fact **I used to have a pet bearded dragon named Spike. He was cool.**
 
-- 🎙️ Favourite Quote
+- 🎙️ Favourite Quote from **Dr. Albert Causo** **:** **"Fail Fast", when asked how to succeed in a software start-up**
   
 
 <h3 align="left">Connect with me:</h3>
