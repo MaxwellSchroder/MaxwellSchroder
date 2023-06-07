@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on small independent game projects.
 - 📫 How to reach me 
 
+Languages
+Python Java C Bash SQL
+
+ML/DL
+Pandas NumPy Scikit-Learn SciPy Matplotlib
+
+OS
+Linux Windows
+
 email: maxischroder3@gmail.com
 
 <!---
