@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Maxwell Schroder</h1>
 <h3 align="center">A passionate software developer fighting out of Brisbane, Australia</h3>
 
-- 🎓 I am expected to graduate with a **Bachelor's of Computer Science** from the **University of Queensland** in November 2023
+- 🎓 I am expected to graduate with a **Bachelor's of Software Engineering** from the **University of Queensland** in June 2025
 
 - 🔭 I’m currently working on [**graphics programming**](https://github.com/MaxwellSchroder/Yaka-Arrow-Project-OpenGL)
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **Bubble**
 
-- 👯 I’m looking to collaborate on **game development projects**
+- 👯 I’m looking to start and collaborate on **game development projects in Unreal 5**
 
 - 🤝 I’m looking for help in **becoming a more productive developer using new generative tools, e.g. chatGPT**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python** and **Recursive Algorithms**
 
-- 📫 How to reach me **maxischroder3@gmail.com**
+- 📫 How to reach me **mcschroder@outlook.com**
 
 - ⚡ Fun fact **I used to have a pet bearded dragon named Spike. He was cool.**
 
@@ -45,12 +45,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> </a> 
-</p>
-
-<h5 align="left">Mobile App Development</h4>
-<p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 </p>
 
 <h5 align="left">Machine Learning / Artificial Intelligence</h4>
