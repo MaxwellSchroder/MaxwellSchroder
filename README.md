@@ -3,6 +3,8 @@
 
 - 🎓 I am expected to graduate with a **Bachelor's of Software Engineering** from the **University of Queensland** in June 2025
 
+- 📒 My design portfolio can be found [**here**](https://maxwellschroder.my.canva.site/)
+
 - 🔭 I’m currently working on [**graphics programming**](https://github.com/MaxwellSchroder/Yaka-Arrow-Project-OpenGL)
 
 - 🌱 I’m currently learning **Bubble**
