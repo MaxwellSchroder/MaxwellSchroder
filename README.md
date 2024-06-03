@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Maxwell Schroder</h1>
 <h3 align="center">A passionate software developer fighting out of Brisbane, Australia</h3>
 
-- 🎓 I am expected to graduate with a **Bachelor's of Software Engineering** from the **University of Queensland** in Nov 2024
+- 🎓 I am currently studying a **Bachelor's of Engineering (Honours) In Software** from **The University of Queensland**
 
 - 📒 My design portfolio can be found [**here**](https://maxwellschroder.my.canva.site/)
 
