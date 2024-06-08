@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I used to have a pet bearded dragon named Spike. He was cool.**
 
-- 🎙️ Favourite Quote from **Dr. Albert Causo** **:** **"Fail Fast", when asked how to succeed in a software start-up**
+- 🎙️ A Quote from **Horance Mann** **:** **"Be ashamed to die until you have won some victory for humanity"**
   
 
 <h3 align="left">Connect with me:</h3>
